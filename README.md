@@ -1,4 +1,4 @@
-### 🗳️ Sistema de Votação Eletrônica (Urna Eletrônica)
+# 🗳️ Sistema de Votação Eletrônica (Urna Eletrônica)
 Este é um sistema de simulação de urna eletrônica desenvolvido em Java. O projeto foi concebido para aplicar conceitos avançados de Programação Orientada a Objetos (POO) e lógica de programação em um cenário prático de automação de processos eleitorais.
 
 ## 🚀 Funcionalidades
@@ -30,5 +30,5 @@ Ambiente: Console (Terminal)
 
 Paradigma: Orientação a Objetos
 
-*Desenvolvido por Raphael Sousa Lameira.*
+#### *Desenvolvido por Raphael Sousa Lameira.*
 *Estudante de Sistemas de Informação - UFOP.*
