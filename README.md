@@ -30,5 +30,5 @@ Ambiente: Console (Terminal)
 
 Paradigma: Orientação a Objetos
 
-# *Desenvolvido por Raphael Sousa Lameira.*
+*Desenvolvido por Raphael Sousa Lameira.*
 *Estudante de Sistemas de Informação - UFOP.*
